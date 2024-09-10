@@ -1,8 +1,15 @@
 ---
+<<<<<<< HEAD
 sidebar_position: 3
 ---
 
 # Important Research
+=======
+sidebar_position: 5
+---
+
+# Important Research (Tutorial Video)
+>>>>>>> 700ab57b6b2bea64da49588f9d22e5b77999fa71
 
 Tutorial for Redback Operations
 
@@ -12,6 +19,11 @@ By **John Doe**. **15/04/2024**
 
 :::
 
+<<<<<<< HEAD
+=======
+## **[Video here!](https://youtu.be/AbDBXuXaJ_s)**
+
+>>>>>>> 700ab57b6b2bea64da49588f9d22e5b77999fa71
 
 ## Very Important
 
